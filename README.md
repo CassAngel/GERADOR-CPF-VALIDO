@@ -6,13 +6,12 @@ O projeto tem como objetivo gerar um CPF válido de forma randomica, proporciona
 
 INSTRUÇÕES DE COMO EXECUTAR A APLICAÇÃO:
 
-Para executar a aplicação bastar abrir o index com os 
-Entrega do Projeto:
+Para executar a aplicação bastar abrir o index com os os arquivos baixados no computador, ou atraves do VS code baixando a extenção Live Server, clicando com o botão direito do mouse > Open with Live Server. Após executado, clique no botão GERAR CPF e veja a mágica acontecer. 
 
-Suba o código da aplicação em um repositório no GitHub.
-Verifique se o repositório está público para que a correção possa ser realizada.
-Inclua um arquivo README.md no repositório com as seguintes informações:
-Descrição do projeto.
-Instruções de como executar a aplicação.
-Tecnologias utilizadas.
-Possíveis melhorias futuras.
+TECNOLOGIAS UTILIZADAS:
+
+Foi utilizado para criação desta aplicação, o vs code utilizando o HTML, .CSS e TypeScript e a extenção  Live Server.
+
+MELHORIAS FUTURAS:
+
+As proximas versões contará com um sitema de login e senha onde o ADM entra com os dados da pessoa que deseja criar um CPF, dados estes como: Nome completo, endereço, Nome do pai, Nome da Mãe, telefone, email, data de nascimento, naturalidade, além de ser salvo tudo isso e claro o CPF gerado.
